@@ -1,0 +1,1 @@
+<h1>Je suis une bille en JavaScript j'ai essayé de regarder des tutos mais en vain j'ai eu une migraine sur les fonctions je comprend rien ducoup j'ai juste copier coller les exercices pour au moins rendre quelque chose mais il me faut vraiment de l'entrainement s'il vous plait aider moi</h1>
